@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a project in VueJs + Laravel, and im enjoying the whole process
 - 🌱 I’m currently learning React + Node
-- 📫 How to reach me: icarrovieirra@gmail.com
+- 📫 How to reach me: icarovieirra@gmail.com
 
 <!--
 **icarovie/icarovie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
