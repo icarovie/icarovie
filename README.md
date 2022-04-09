@@ -1,8 +1,9 @@
 ### Olá Pessoal! 👋
 
 
-- 🔭 I’m currently working on a project in VueJs + Laravel, and im enjoying the whole process
-- 🌱 I’m currently learning React + Node
+- 🔭 I’m currently working as a Front End Developer
+- - 💬 Ask me about React and TypeScript, and tests related to it
+- 🌱 I’m currently learning Rust, Elixir and Kotlin
 - 📫 How to reach me: icarovieirra@gmail.com
 
 <!--
